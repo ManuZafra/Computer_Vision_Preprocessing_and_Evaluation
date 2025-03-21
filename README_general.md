@@ -18,3 +18,6 @@ During my Le Wagon Data Science & AI bootcamp, I worked on a computer vision pro
 
 ## Purpose
 These exercises helped me master key computer vision concepts—data transformation, geometric analysis, and optimization—while documenting my learning journey.
+
+
+.
